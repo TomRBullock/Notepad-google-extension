@@ -7,6 +7,14 @@ body {
 
 #entry {
 	font: normal 14px;
-	line-height: 25px;
-	padding: 2px 2px;
+	line-height: 22px;
+	padding: 2px 3px;
 }
+
+#titleBox {
+	font: normal 14px;
+	line-height: 22px;
+	padding: 2px 3px;
+	min-width: 200px;
+}
+
